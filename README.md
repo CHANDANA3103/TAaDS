@@ -6,8 +6,7 @@ The project is implemented in a Jupyter Notebook and demonstrates data analysis,
 ---
 
 ## 📁 Repository Structure  
-- **`Taads final project code.ipynb`** → Main notebook with all code, outputs, and analysis  
-- *(Optional)* `requirements.txt` → Python dependencies (can be added later)  
+- **`Taads final project code.ipynb`** → Main notebook with all code, outputs, and analysis   
 
 ---
 
@@ -28,24 +27,26 @@ Make sure you have the following installed:
 ### Install required libraries:  
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-🚀 How to Run
-## Clone this repository:
+```
+## 🚀 How to Run
+
+### Clone this repository:
 git clone https://github.com/CHANDANA3103/TAaDS.git
 
-Open the notebook:
+### Open the notebook:
 jupyter notebook "Taads final project code.ipynb"
 
-📷 Sample Outputs
+### 📷 Sample Outputs
 The notebook includes:
 Data visualizations for better insights
 Step-by-step explanations of the workflow
 Results and conclusions based on analysis
 
-👩‍💻 Author
+### 👩‍💻 Author
 Chandana Mysore Kumar
 Master’s Student – Applied Computer Science, Schmalklden University of Applied Sciences
 [GitHub Profile](https://github.com/username/repository)!
 
-📜 License
+### 📜 License
 This project is for academic and learning purposes.
 Feel free to use it as a reference, but please provide credit.
